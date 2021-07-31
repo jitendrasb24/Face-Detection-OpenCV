@@ -52,7 +52,7 @@ The detection effectively works only on grayscale images. So it is important to 
 
 ### Using prebuilt XML classifiers
 
-These are the pre-trained models that can be directly used. 
+These are the pre-trained Classifiers that can be directly used. 
 
 There are various Cascade classifiers available that can be used according to the requirement.
 
