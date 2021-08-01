@@ -139,7 +139,7 @@ Declaring the path where the extracted faces will be saved.
 
 Name by which extracted faces will be saved as jpg file.
 
-                full_name = 'demo_{}.jpg'.format(count)
+               full_name = 'demo_{}.jpg'.format(count)
                
                os.chdir(path)
                
